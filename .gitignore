@@ -7,3 +7,4 @@
 /.psc-ide-port
 .purs-repl
 /.spago/
+spago.lock
